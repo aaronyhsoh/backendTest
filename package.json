@@ -1,0 +1,20 @@
+{
+  "name": "teksystems_backend",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.1.7",
+    "nanoid": "^3.2.0",
+    "uuid": "^8.3.2"
+  }
+}
